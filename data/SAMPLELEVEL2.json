@@ -1,11 +1,11 @@
 {
     "id": 57436521,
     "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
+    "author": "AtiDaNub",
+    "creators": [Knobbelboy],
+    "verifier": "Knobbelboy",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "percentToQualify": "6",
     "password": "Free To Copy",
     "records": [
     ]
