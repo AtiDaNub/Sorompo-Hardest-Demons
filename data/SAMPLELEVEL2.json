@@ -8,5 +8,11 @@
     "percentToQualify": "6",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "BludFawg",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 7,
+            "hz": 360
+        }
     ]
 }
