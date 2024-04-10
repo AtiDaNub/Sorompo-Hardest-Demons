@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 62809982,
     "name": "Thanatophobia",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "ARtu",
+    "creators": ["ARtu"],
+    "verifier": "zBiscuit",
+    "verification": "https://www.youtube.com/watch?si=jp5BB9yt3lF36Nzl&v=WmOkVK8SQ60&feature=youtu.be",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "mendel",
+            "link": "https://www.youtube.com/watch?v=dbO9sG3SGZI&feature=youtu.be",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
