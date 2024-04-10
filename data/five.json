@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 60197839,
     "name": "Precipitance",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Extravagon",
+    "creators": ["Extravagon"],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=N7LoNlzLg_U",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "zBiscuit",
+            "link": "https://www.youtube.com/watch?v=ZdXzHQyQ1vA",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         }
     ]
 }
