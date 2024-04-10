@@ -2,17 +2,17 @@
     {
         "role": "owner",
         "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@atidanub106"
     },
     {
         "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@atidanub106"
     },
     {
         "role": "helper",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@mendel6623,https://www.youtube.com/@Zeronium"
     },
     {
         "role": "trial",
@@ -22,6 +22,6 @@
     {
         "role": "dev",
         "name": "List Coder",
-        "link": "https://www.youtube.com/channel/UCcs7MtmOyxZdxLny8D9anIg"
+        "link": "https://www.youtube.com/@atidanub106"
     }
 ]
