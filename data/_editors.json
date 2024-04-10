@@ -7,22 +7,27 @@
     {
         "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@atidanub106"
+        "link": "https://www.youtube.com/@zbiscuit_"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
+        "role": "admin",
+        "name": "List Admin",
         "link": "https://www.youtube.com/@mendel6623"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Zeronium"        
+        "role": "admin",
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@teyyogd"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@zDatii"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@RealMixy"
     },
     {
         "role": "dev",
