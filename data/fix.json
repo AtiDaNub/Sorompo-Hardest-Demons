@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
+    "id": 73289291,
     "name": "Delirium Tremens",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Vadi",
+    "creators": ["Drewch","Vadi"],
+    "verifier": "zBiscuit",
+    "verification": "https://www.youtube.com/watch?v=50XCRnxFMOY",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
