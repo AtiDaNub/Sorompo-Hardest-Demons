@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 65561437,
     "name": "Napalm",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Marwec",
+    "creators": ["Marwec and more"],
+    "verifier": "zBiscuit",
+    "verification": "https://www.youtube.com/watch?v=29NTgRXWuMc",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "mendel",
+            "link": "https://www.youtube.com/watch?v=aySZ4vqvqsY",
             "percent": 100,
-            "hz": 360
+            "hz": 120
         }
     ]
 }
