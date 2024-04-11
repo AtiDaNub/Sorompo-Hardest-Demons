@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
+    "id": 84325817,
     "name": "TROLLMACHINE",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "TROLLM4CHINE",
+    "creators": ["TROLLM4CHINE","Luvery","RT","Ishigiru","Lagnugg","LATEO","Vitchrose","Tsuzuito"],
+    "verifier": "Teyyo",
+    "verification": "https://www.youtube.com/watch?v=UETxkpZhq7A",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
