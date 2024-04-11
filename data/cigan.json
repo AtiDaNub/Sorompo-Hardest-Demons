@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 89807521,
     "name": "FISH FISH GODMODE",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "whoiskeve",
+    "creators": ["whoiskeve"],
+    "verifier": "AtiDaNub",
+    "verification": "https://www.youtube.com/watch?v=oGLW4S_Nzy8",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "zBiscuit",
+            "link": "https://www.youtube.com/watch?v=blORfue0ZsA",
             "percent": 100,
-            "hz": 360
+            "hz": 120
         }
     ]
 }
