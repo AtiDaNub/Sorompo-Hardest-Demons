@@ -1,18 +1,12 @@
 {
     "id": 18697406,
     "name": "Retention",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=MZ2hOGWDhZQ",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
