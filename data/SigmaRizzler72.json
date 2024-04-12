@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
+    "id": 69507105,
     "name": "RASH",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Loltad",
+    "creators": ["Loltad"],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=8nVK5eR-YAE",
     "percentToQualify": 55,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
