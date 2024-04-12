@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
+    "id": 78248443,
     "name": "Worse Trip",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Loltad",
+    "creators": ["Loltad"],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=CXOCOhuscK8",
     "percentToQualify": 52,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
