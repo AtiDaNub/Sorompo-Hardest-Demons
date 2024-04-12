@@ -1,18 +1,24 @@
 {
-    "id": 57436521,
+    "id": 68848817,
     "name": "moment",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "lexycat",
+    "creators": ["lexycat","Stormfly","icedcave"],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=BeEUXGJGVk4",
     "percentToQualify": 61,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "AtiDaNub",
+            "link": "https://www.youtube.com/watch?v=0QNAe3x-_VE",
             "percent": 100,
-            "hz": 360
+            "hz": 240
+        },
+        {
+            "user": "zDatii",
+            "link": "https://www.youtube.com/@zDatii",
+            "percent": 87,
+            "hz": 240
         }
     ]
 }
