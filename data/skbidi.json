@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
+    "id": 64148732,
     "name": "Carcano",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Asuith",
+    "creators": ["Asuith","TomsoN"],
+    "verifier": "AtiDaNub",
+    "verification": "https://www.youtube.com/watch?v=-FEPhEkv-RQ",
     "percentToQualify": 60,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
