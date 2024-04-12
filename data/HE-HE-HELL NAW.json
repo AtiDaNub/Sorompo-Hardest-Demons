@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 70484097,
     "name": "Endless Dream",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "DreamTide",
+    "creators": ["DreamTide"],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=8CB-A2FDAsw",
     "percentToQualify": 54,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "zBiscuit",
+            "link": "https://www.youtube.com/@zbiscuit_",
+            "percent": 71,
+            "hz": 120
         }
     ]
 }
