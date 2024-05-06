@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/@teyyogd",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "gBen",
+            "link": "https://www.youtube.com/watch?v=aby1-L43s4Y",
+            "percent": 100,
+            "hz": 250
         }
     ]
 }
