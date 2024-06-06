@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "AtiDaNub",
+            "link": "https://www.youtube.com/watch?v=Q2pt6zdFX5c",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
