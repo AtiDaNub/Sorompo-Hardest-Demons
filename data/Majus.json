@@ -1,1 +1,17 @@
-
+{
+    "id": 60284098,
+    "name": "Maybe Possibly Thing",
+    "author": "iNubble",
+    "creators": ["iNubble"],
+    "verifier": "mendel",
+    "verification": "https://www.youtube.com/watch?v=bePZQ8F57xs&t=19s",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user":"zBiscuit",
+            "link": "https://www.youtube.com/watch?v=l2eHMWebWU8",
+            "percent": 100,
+            "hz": 120
+    ]
+}
