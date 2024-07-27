@@ -20,6 +20,16 @@
         "link": "https://www.youtube.com/@teyyogd"
     },
     {
+        "role": "admin",
+        "name": "Soowyy",
+        "link": "https://www.youtube.com/@SoowyRL"
+    },
+    {
+        "role": "admin",
+        "name": "Serpent",
+        "link": "https://www.youtube.com/@Serpentical"
+    },
+    {
         "role": "helper",
         "name": "zDatii",
         "link": "https://www.youtube.com/@zDatii"
@@ -27,21 +37,11 @@
     {
         "role": "helper",
         "name": "MixyGD",
-        "link": "https://www.youtube.com/@RealMixy"
-    },
+        "link": "https://www.youtube.com/@MixyGD"
+    }
     {
         "role": "dev",
         "name": "AtiDaNub",
         "link": "https://www.youtube.com/@atidanub106"
-    },
-    {
-        "role": "dev",
-        "name": "Serpent",
-        "link": "https://www.youtube.com/@Serpentical"
-    },
-    {
-        "role": "dev",
-        "name": "Soowy",
-        "link": "https://www.youtube.com/@soowy"
     }
 ]
