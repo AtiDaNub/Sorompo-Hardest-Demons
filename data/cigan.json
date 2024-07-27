@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=rHg0eAaMzqY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "mendel",
+            "link": "https://www.youtube.com/watch?v=gVitlrlqt2U",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
