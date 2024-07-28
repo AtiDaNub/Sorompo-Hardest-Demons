@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "TrickyBonkers",
+            "link": "https://youtu.be/QZ4lGyZ40jU?si=RB-rE-M5WgPK_twM",
+            "percent": 100,
+            "hz": 6000
+        }
     ]
 }
