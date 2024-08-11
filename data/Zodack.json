@@ -8,5 +8,12 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "zDatii",
+            "link": "https://www.google.com/",
+            "percent": 100,
+            "hz": 1,
+            "mobile": true
+        }
     ]
 }
