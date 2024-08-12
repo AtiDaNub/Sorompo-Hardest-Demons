@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "mendel",
+            "link": "https://youtu.be/80HpOTU6WZk",
+            "percent": 100,
+            "hz": 10,
+            "mobile": false
+        }
     ]
 }
