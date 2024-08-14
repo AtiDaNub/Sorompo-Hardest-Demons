@@ -15,16 +15,16 @@
             "hz": 360
         },
         {
+            "user": "Serpent",
+            "link": "https://youtu.be/1XT0y-2m3SQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "zBiscuit",
             "link": "https://www.youtube.com/watch?v=t3rjzuXUHNw&t=21s",
             "percent": 79,
             "hz": 120
-        },
-        {
-            "user": "Serpent",
-            "link": "https://youtu.be/wgzbzkBsAQA",
-            "percent": 75,
-            "hz": 240
         }
     ]
 }
