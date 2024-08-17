@@ -8,5 +8,12 @@
     "percentToQualify": 51,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Serpent",
+            "link": "https://www.youtube.com/@Serpentical",
+            "percent": 58,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
