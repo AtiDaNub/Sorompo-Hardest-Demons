@@ -8,5 +8,12 @@
     "percentToQualify": 54,
     "password": "Not Copyable",
     "records": [
+      {
+            "user": "mendel",
+            "link": "lusta vagyok xd",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
