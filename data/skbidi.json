@@ -8,5 +8,12 @@
     "percentToQualify": 60,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Arkwada",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
