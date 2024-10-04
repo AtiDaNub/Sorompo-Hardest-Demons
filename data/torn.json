@@ -8,5 +8,12 @@
     "percentToQualify": 51,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Teyyo",
+            "link": "https://www.youtube.com/watch?v=G2pgapsxJDE",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
