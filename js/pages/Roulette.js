@@ -13,7 +13,7 @@ export default {
         <main v-else class="page-roulette">
             <div class="sidebar">
                 <p class="type-label-md" style="color: #aaa">
-                    en kurvara utalom ezeket a kibaszott <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">ciganyokat</a>.
+                    en kurvara utalom ezeket a kibaszott <a href="https://hu.wikipedia.org/wiki/Cig%C3%A1nyok" target="_blank">ciganyokat</a>.
                 </p>
                 <form class="options">
                     <div class="check">
