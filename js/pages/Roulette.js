@@ -13,7 +13,7 @@ export default {
         <main v-else class="page-roulette">
             <div class="sidebar">
                 <p class="type-label-md" style="color: #aaa">
-                    Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">matcool</a>.
+                    en kurvara utalom ezeket a kibaszott <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">ciganyokat</a>.
                 </p>
                 <form class="options">
                     <div class="check">
