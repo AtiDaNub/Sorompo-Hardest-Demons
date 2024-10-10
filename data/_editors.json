@@ -16,18 +16,8 @@
     },
     {
         "role": "admin",
-        "name": "Teyyo",
-        "link": "https://www.youtube.com/@teyyogd"
-    },
-    {
-        "role": "admin",
         "name": "THE GUY WHO FELT IN LOVE",
         "link": "https://www.youtube.com/@SoowyRL"
-    },
-    {
-        "role": "admin",
-        "name": "Serpent",
-        "link": "https://www.youtube.com/@Serpentical"
     },
     {
         "role": "helper",
@@ -36,12 +26,22 @@
     },
     {
         "role": "helper",
-        "name": "MixyGD",
+        "name": "wMixy",
         "link": "https://www.youtube.com/@MixyGD"
     },
     {
         "role": "dev",
         "name": "AtiDaNub",
         "link": "https://www.youtube.com/@atidanub106"
-    }
+    },
+    {
+        "role": "dev",
+        "name": "Teyyo",
+        "link": "https://www.youtube.com/@teyyogd"
+    },
+    {
+        "role": "dev",
+        "name": "Serpent",
+        "link": "https://www.youtube.com/@Serpentical"
+    },
 ]
