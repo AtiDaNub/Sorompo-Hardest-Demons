@@ -1,0 +1,18 @@
+{
+    "id": 62556400,
+    "name": "Codependence (2P)",
+    "author": "TCTeam",
+    "creators": ["Artos and more"],
+    "verifier": "gBen",
+    "verification": "https://www.youtube.com/watch?v=o4ZoKPVhGhE",
+    "percentToQualify": 69,
+    "password": "Not Copyable",
+    "records": [
+      {
+            "user": "zBiscuit",
+            "link": "https://www.youtube.com/watch?v=o4ZoKPVhGhE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
