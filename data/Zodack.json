@@ -9,6 +9,13 @@
     "password": "Not Copyable",
     "records": [
         {
+            "user": "theOppGabriel",
+            "link": "https://www.youtube.com/watch?v=WT_ZLFsSZts",
+            "percent": 100,
+            "hz": 10,
+            "mobile": false
+        },
+        {
             "user": "zDatii",
             "link": "https://www.youtube.com/watch?v=7LesonCCInE",
             "percent": 48,
