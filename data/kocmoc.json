@@ -8,5 +8,12 @@
     "percentToQualify": 48,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Teyyo",
+            "link": "https://hu.wikipedia.org/wiki/Cig%C3%A1nyok",
+            "percent": 58,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
